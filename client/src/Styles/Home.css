@@ -1,0 +1,17 @@
+
+.hero-text {
+    text-align: center;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(16, 15, 15);
+}
+
+.hero-text h1 {
+    font-size: 3em;
+}
+
+.hero-text p {
+    font-size: 1.5em;
+}
